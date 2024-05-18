@@ -3,7 +3,7 @@ CLOCK
 This is a simple HTML/CSS/JavaScript clock that displays the current time with rotating clock hands. 
 The clock hands rotate dynamically to represent the seconds, minutes, and hours.
 
-Here's a breakdown of the code:
+Here's a breakdown of the code: 
 
 The HTML structure consists of a <div> with the class "clock-face", which contains three child elements representing the hour hand, minute hand, and second hand.
 CSS is used to style the clock, including its appearance, size, border, and shadows. Each hand (hour, minute, second) is styled to appear as a thin black line.
